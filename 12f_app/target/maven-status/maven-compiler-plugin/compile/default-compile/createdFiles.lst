@@ -1,0 +1,5 @@
+com\github\rainpoiss\app\domain\model\StockItem.class
+com\github\rainpoiss\app\domain\model\ItemType.class
+com\github\rainpoiss\app\domain\model\StockItemRepository.class
+com\github\rainpoiss\app\StockResource.class
+com\github\rainpoiss\app\StockSpringBootStarter.class
